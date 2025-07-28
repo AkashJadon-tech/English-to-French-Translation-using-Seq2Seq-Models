@@ -1,4 +1,4 @@
-🇬🇧 English-to-French Translation using Seq2Seq Models
+--->>> English-to-French Translation using Seq2Seq Models <<<---
 
 This project presents two neural machine translation models for English-to-French translation using Sequence-to-Sequence (Seq2Seq) architectures in TensorFlow and Keras.
 
